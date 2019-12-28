@@ -1,0 +1,5 @@
+/home/pcj/p2/dev/src/../bin/ProbVote
+/home/pcj/p2/dev/lib/../lib/libadmin.a
+/home/pcj/p2/dev/lib/../lib/libviewer.a
+/home/pcj/p2/dev/lib/../lib/libvip.a
+/home/pcj/p2/dev/lib/../lib/libvote.a

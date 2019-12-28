@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/vip.h
+string
+-
+iostream
+-
+vector
+-
+
+/home/pcj/p2/dev/lib/vip.cpp
+vip.h
+/home/pcj/p2/dev/lib/vip.h
+

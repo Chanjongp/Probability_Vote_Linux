@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/ProbVote.dir/main.cpp.o  -o ProbVote ../lib/libadmin.a ../lib/libviewer.a ../lib/libvip.a ../lib/libvote.a 

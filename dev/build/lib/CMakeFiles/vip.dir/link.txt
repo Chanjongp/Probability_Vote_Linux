@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvip.a  CMakeFiles/vip.dir/vip.cpp.o
+/usr/bin/ranlib libvip.a

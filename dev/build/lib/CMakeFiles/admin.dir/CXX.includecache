@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/admin.h
+vip.h
+../inc/vip.h
+
+../inc/vip.h
+string
+-
+iostream
+-
+vector
+-
+
+/home/pcj/p2/dev/lib/admin.cpp
+admin.h
+/home/pcj/p2/dev/lib/admin.h
+
