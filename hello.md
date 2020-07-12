@@ -58,3 +58,7 @@
 ## branch update
 
 - dawdaw
+
+## revert 되돌리기용
+
+- 깃허브 생각보다 어렵네용
